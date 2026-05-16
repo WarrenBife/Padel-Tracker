@@ -1,0 +1,16 @@
+{
+  "name": "Pádel Tracker",
+  "short_name": "Pádel",
+  "description": "Tracker de partidos y estadísticas de pádel",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0f0d",
+  "theme_color": "#0a0f0d",
+  "icons": [
+    {
+      "src": "raqueta-de-padel.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
